@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AnxKathie.png"><SubTexture name="AnxKathie DOWN0000" x="0" y="0" width="499" height="1024" frameX="0" frameY="0" frameWidth="499" frameHeight="1024" />
+<SubTexture name="AnxKathie IDLE0000" x="499" y="0" width="491" height="1031" frameX="0" frameY="0" frameWidth="491" frameHeight="1031" />
+<SubTexture name="AnxKathie LEFT0000" x="0" y="1031" width="500" height="1033" frameX="0" frameY="0" frameWidth="500" frameHeight="1033" />
+<SubTexture name="AnxKathie RIGHT0000" x="500" y="1031" width="518" height="1026" frameX="0" frameY="0" frameWidth="518" frameHeight="1026" />
+<SubTexture name="AnxKathie UP0000" x="0" y="2064" width="519" height="1052" frameX="0" frameY="0" frameWidth="519" frameHeight="1052" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="AnxKathie" scale="0.8" flipX="true" isPlayer="true" icon="face" color="#DC8310">
+	<anim name="idle" anim="AnxKathie IDLE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="AnxKathie UP" x="16" y="21" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="AnxKathie LEFT" x="32" y="-1" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="AnxKathie RIGHT" x="-6" y="-5" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="AnxKathie DOWN" x="33" y="-7" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="schoolhallwayzoom" folder="stages/schoolhallwayzoom/" startCamPosY="500" startCamPosX="500">
+	<sprite name="lockers"               x="-400" y="0"   sprite="lockers"       scroll="0.9" />
+	<girlfriend />
+	<dad />
+	<boyfriend />
+</stage>
